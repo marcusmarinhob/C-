@@ -6,7 +6,13 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            string consoleMsg = "Marcus Marinho - C# Study";
+            
+            string firstname = "Marcus";
+            string middlename = "Marinho";
+            string course = "C#";
+            
+            string consoleMsg = firstname + " " + middlename + " - " + course + " Course";
+
             Console.WriteLine(consoleMsg);
         }
     }
