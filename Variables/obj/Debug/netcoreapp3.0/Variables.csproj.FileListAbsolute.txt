@@ -1,0 +1,11 @@
+D:\Repositories\C#\CSharp\Variables\bin\Debug\netcoreapp3.0\Variables.exe
+D:\Repositories\C#\CSharp\Variables\bin\Debug\netcoreapp3.0\Variables.deps.json
+D:\Repositories\C#\CSharp\Variables\bin\Debug\netcoreapp3.0\Variables.runtimeconfig.json
+D:\Repositories\C#\CSharp\Variables\bin\Debug\netcoreapp3.0\Variables.runtimeconfig.dev.json
+D:\Repositories\C#\CSharp\Variables\bin\Debug\netcoreapp3.0\Variables.dll
+D:\Repositories\C#\CSharp\Variables\bin\Debug\netcoreapp3.0\Variables.pdb
+D:\Repositories\C#\CSharp\Variables\obj\Debug\netcoreapp3.0\Variables.csprojAssemblyReference.cache
+D:\Repositories\C#\CSharp\Variables\obj\Debug\netcoreapp3.0\Variables.AssemblyInfoInputs.cache
+D:\Repositories\C#\CSharp\Variables\obj\Debug\netcoreapp3.0\Variables.AssemblyInfo.cs
+D:\Repositories\C#\CSharp\Variables\obj\Debug\netcoreapp3.0\Variables.dll
+D:\Repositories\C#\CSharp\Variables\obj\Debug\netcoreapp3.0\Variables.pdb
