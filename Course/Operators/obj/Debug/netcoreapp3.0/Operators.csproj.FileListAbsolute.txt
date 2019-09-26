@@ -1,0 +1,11 @@
+D:\Repositories\C#\CSharp\Course\Operators\obj\Debug\netcoreapp3.0\Operators.csprojAssemblyReference.cache
+D:\Repositories\C#\CSharp\Course\Operators\obj\Debug\netcoreapp3.0\Operators.AssemblyInfoInputs.cache
+D:\Repositories\C#\CSharp\Course\Operators\obj\Debug\netcoreapp3.0\Operators.AssemblyInfo.cs
+D:\Repositories\C#\CSharp\Course\Operators\bin\Debug\netcoreapp3.0\Operators.exe
+D:\Repositories\C#\CSharp\Course\Operators\bin\Debug\netcoreapp3.0\Operators.deps.json
+D:\Repositories\C#\CSharp\Course\Operators\bin\Debug\netcoreapp3.0\Operators.runtimeconfig.json
+D:\Repositories\C#\CSharp\Course\Operators\bin\Debug\netcoreapp3.0\Operators.runtimeconfig.dev.json
+D:\Repositories\C#\CSharp\Course\Operators\bin\Debug\netcoreapp3.0\Operators.dll
+D:\Repositories\C#\CSharp\Course\Operators\bin\Debug\netcoreapp3.0\Operators.pdb
+D:\Repositories\C#\CSharp\Course\Operators\obj\Debug\netcoreapp3.0\Operators.dll
+D:\Repositories\C#\CSharp\Course\Operators\obj\Debug\netcoreapp3.0\Operators.pdb

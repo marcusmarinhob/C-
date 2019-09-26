@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\C#\\CSharp\\Operators\\Operators.csproj",
+      "projectUniqueName": "D:\\Repositories\\C#\\CSharp\\Course\\Operators\\Operators.csproj",
       "projectName": "Operators",
-      "projectPath": "D:\\Repositories\\C#\\CSharp\\Operators\\Operators.csproj",
+      "projectPath": "D:\\Repositories\\C#\\CSharp\\Course\\Operators\\Operators.csproj",
       "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\C#\\CSharp\\Operators\\obj\\",
+      "outputPath": "D:\\Repositories\\C#\\CSharp\\Course\\Operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config"
