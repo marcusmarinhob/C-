@@ -15,6 +15,16 @@ namespace Operators
             mult = num1 * num2;
             div  = num1 / num2;
 
+
+            consoleMessage = "Número 1: " + num1;                        
+            Console.WriteLine(consoleMessage);
+
+            consoleMessage = "Número 2: " + num2;                        
+            Console.WriteLine(consoleMessage);
+
+            consoleMessage = "\r";
+            Console.WriteLine(consoleMessage);
+
             consoleMessage = "Soma: " + soma;                        
             Console.WriteLine(consoleMessage);
 
