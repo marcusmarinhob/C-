@@ -6,13 +6,25 @@ namespace Operators
     {
         static void Main(string[] args)
         {
-            string name = "Marcus";
-            double salary_1 = 100.0;
-            double salary_2 = 250.0;
-            double soma = salary_1 + salary_2;
+            double num1 = 10, num2 = 5;
+            double soma, sub, mult, div;
+            string consoleMessage;
 
-            string consoleMessage = name + " receives R$" + soma + " in a month!";
-                        
+            soma = num1 + num2;
+            sub  = num1 - num2;
+            mult = num1 * num2;
+            div  = num1 / num2;
+
+            consoleMessage = "Soma: " + soma;                        
+            Console.WriteLine(consoleMessage);
+
+            consoleMessage = "Subtração: " + sub;                        
+            Console.WriteLine(consoleMessage);
+
+            consoleMessage = "Multiplicação: " + mult;                        
+            Console.WriteLine(consoleMessage);
+
+            consoleMessage = "Divisão: " + div;                        
             Console.WriteLine(consoleMessage);
         }
     }
