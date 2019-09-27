@@ -7,14 +7,10 @@ namespace Operators
         static void Main(string[] args)
         {
             double num1 = 10, num2 = 5;
-            double soma, sub, mult, div;
+            double media;
             string consoleMessage;
 
-            soma = num1 + num2;
-            sub  = num1 - num2;
-            mult = num1 * num2;
-            div  = num1 / num2;
-
+            media = (num1 + num2)/2;
 
             consoleMessage = "Número 1: " + num1;                        
             Console.WriteLine(consoleMessage);
@@ -22,19 +18,10 @@ namespace Operators
             consoleMessage = "Número 2: " + num2;                        
             Console.WriteLine(consoleMessage);
 
-            consoleMessage = "\r";
+            consoleMessage = "\r";                      
             Console.WriteLine(consoleMessage);
 
-            consoleMessage = "Soma: " + soma;                        
-            Console.WriteLine(consoleMessage);
-
-            consoleMessage = "Subtração: " + sub;                        
-            Console.WriteLine(consoleMessage);
-
-            consoleMessage = "Multiplicação: " + mult;                        
-            Console.WriteLine(consoleMessage);
-
-            consoleMessage = "Divisão: " + div;                        
+            consoleMessage = "Média: " + media;                        
             Console.WriteLine(consoleMessage);
         }
     }
