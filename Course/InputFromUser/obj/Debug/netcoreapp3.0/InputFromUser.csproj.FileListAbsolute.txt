@@ -1,0 +1,11 @@
+D:\Repositories\C#\CSharp\Course\InputFromUser\obj\Debug\netcoreapp3.0\InputFromUser.csprojAssemblyReference.cache
+D:\Repositories\C#\CSharp\Course\InputFromUser\obj\Debug\netcoreapp3.0\InputFromUser.AssemblyInfoInputs.cache
+D:\Repositories\C#\CSharp\Course\InputFromUser\obj\Debug\netcoreapp3.0\InputFromUser.AssemblyInfo.cs
+D:\Repositories\C#\CSharp\Course\InputFromUser\bin\Debug\netcoreapp3.0\InputFromUser.exe
+D:\Repositories\C#\CSharp\Course\InputFromUser\bin\Debug\netcoreapp3.0\InputFromUser.deps.json
+D:\Repositories\C#\CSharp\Course\InputFromUser\bin\Debug\netcoreapp3.0\InputFromUser.runtimeconfig.json
+D:\Repositories\C#\CSharp\Course\InputFromUser\bin\Debug\netcoreapp3.0\InputFromUser.runtimeconfig.dev.json
+D:\Repositories\C#\CSharp\Course\InputFromUser\bin\Debug\netcoreapp3.0\InputFromUser.dll
+D:\Repositories\C#\CSharp\Course\InputFromUser\bin\Debug\netcoreapp3.0\InputFromUser.pdb
+D:\Repositories\C#\CSharp\Course\InputFromUser\obj\Debug\netcoreapp3.0\InputFromUser.dll
+D:\Repositories\C#\CSharp\Course\InputFromUser\obj\Debug\netcoreapp3.0\InputFromUser.pdb
